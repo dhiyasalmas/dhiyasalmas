@@ -3,7 +3,8 @@ Welcome to my github 💫
 
 My life motto is to keep things simple as possible. 
 
-I primarily work with Python, and occasionally, I write code in Java (If im in the mood). Currently, my interest in machine learning and computer vision because my passion is to apply mathematical formulas in programming.
+I primarily work with Python, but sometimes, I write code in Java (If im in the mood). Currently, my interest in machine learning and computer vision because i liked to apply mathematical equations in programming.
+But recently, I have been interested in implementing nuclear equations in programming.
 
 I have experience in web development using CodeIgniter and Bootstrap, with PHP and CSS. 
 
