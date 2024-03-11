@@ -1,7 +1,7 @@
 ### Haiii, Haii... 
 Welcome to my github 💫
 
-My life motto is to keep things simple as possible. 
+Lets keep things simple as possible~
 
 I primarily work with Python, but sometimes, I write code in Java (If im in the mood). Currently, my interest in machine learning and computer vision because i liked to apply mathematical equations in programming.
 But recently, I have been interested in implementing nuclear equations in programming. I have experience to made programme to calculate cogeneration system and thermal hydraulic on HTGR.
