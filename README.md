@@ -3,7 +3,7 @@ Welcome to my github 💫
 
 Lets keep things simple as possible~
 
-I primarily work with Python, but sometimes, Im using Java (If im in the mood). Currently, my interest in machine learning and computer vision because i liked to apply mathematical equations in programming.
+I primarily work with Python, but sometimes, Im using Java (If im in the mood). Currently, my interest in machine learning and computer vision.
 But recently, I have been interested in implementing nuclear equations in programming. I have experience to made programme to calculate cogeneration system and thermal hydraulic on HTGR.
 
 Open to be research assistant, please contact me on dhiyasalmas@gmail.com
