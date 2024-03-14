@@ -12,6 +12,12 @@ Just for fun, i try to learn in web development using CodeIgniter and Bootstrap,
 
 Additionally, I can program with Arduino and QBasic.
 
+<p align="left">
+<a href="https://github.com/dhiyasalmas">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fadel11-hub&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fadel11-hub&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <!--
 **dhiyasalmas/dhiyasalmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
