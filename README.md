@@ -3,12 +3,13 @@ Welcome to my github 💫
 
 Lets keep things simple as possible~
 
-I primarily work with Python, but sometimes using Java (If im in the mood). Interest in machine learning and computer vision.
-But recently, I have been interested in implementing nuclear equations in programming. I have experience to made programme to calculate cogeneration system and thermal hydraulic on HTGR.
+I primarily work with Python. Interest in machine learning and computer vision.
+But recently, I have been interested in implementing nuclear equations in programming. 
+I have experience to made programme to calculate cogeneration system and thermal hydraulic on HTGR.
 
 Open to be research assistant, please contact me on dhiyasalmas@gmail.com
 
-Just for fun, i try to learn in web development using CodeIgniter and Bootstrap, with PHP and CSS. 
+Just for fun, i try to learn in web development using CodeIgniter with Boostrap. Also learning to using Streamlit for data analysis web~
 
 Additionally, I can program with Arduino and QBasic.
 
