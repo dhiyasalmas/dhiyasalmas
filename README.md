@@ -9,7 +9,7 @@ I have experience to made programme to calculate cogeneration system and thermal
 
 Open to be research assistant, please contact me on dhiyasalmas@gmail.com
 
-Just for fun, i try to learn in web development using CodeIgniter with Boostrap. Also learning to using Streamlit for data analysis web~
+Just for fun, i try to learn in web development and learning to using Streamlit for data analysis web~
 
 Additionally, I can program with Arduino and QBasic.
 
