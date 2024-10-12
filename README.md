@@ -7,8 +7,6 @@ I primarily work with Python. Interest in machine learning and computer vision.
 But recently, I have been interested in implementing nuclear equations in programming. 
 I have experience to made programme to calculate cogeneration system and thermal hydraulic on HTGR.
 
-Open to be research assistant, please contact me on dhiyasalmas@gmail.com
-
 Just for fun, i try to learn in web development and learning to using Streamlit for data analysis web~
 
 Additionally, I can program with Arduino and QBasic.
