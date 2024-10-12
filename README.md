@@ -9,8 +9,6 @@ I have experience to made programme to calculate cogeneration system and thermal
 
 Just for fun, i try to learn in web development and learning to using Streamlit for data analysis web~
 
-Additionally, I can program with Arduino and QBasic.
-
 <p align="left">
 <a href="https://github.com/dhiyasalmas">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dhiyasalmas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
